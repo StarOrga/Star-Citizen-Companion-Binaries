@@ -1,4 +1,4 @@
-# sc-companion-binaries
+# Star-Citizen-Companion-Binaries
 
 **Public mirror of SC Companion desktop-tool binaries.**
 
@@ -28,8 +28,8 @@ for the full reasoning + alternatives considered.
    `windows-latest`.
 3. After the build, it creates a Release **on this repo** using a fine-grained
    Personal Access Token stored as `BINARIES_RELEASE_TOKEN` in the source
-   repo's Actions secrets. PAT scope: `Contents: Read and write` on this
-   repo only.
+   repo's Actions secrets. The PAT's resource owner must be the **StarOrga**
+   organization, scope: `Contents: Read and write` on this repo only.
 4. The release assets are public — `electron-updater` fetches them without
    any authentication.
 
