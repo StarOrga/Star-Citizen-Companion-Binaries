@@ -1,0 +1,67 @@
+SC Companion — Proprietary Binary License
+Copyright (c) 2026 StarOrga. All Rights Reserved.
+
+These compiled binary artifacts (the "Software") — including every
+`.exe`, `.blockmap`, and update-metadata file hosted in this repository —
+are the proprietary property of StarOrga and its contributors. They are
+distributed solely to enable end users of the SC Companion desktop tool to
+download and receive automatic updates. No ownership or intellectual
+property rights are transferred to you.
+
+1. GRANT OF LICENSE
+   Subject to your continuous compliance with this License, StarOrga grants
+   you a personal, non-exclusive, non-transferable, non-sublicensable,
+   revocable license to download and run the unmodified Software on devices
+   you own or control, exclusively for personal, non-commercial use as the
+   official SC Companion desktop tool.
+
+2. RESTRICTIONS
+   You may NOT, in whole or in part:
+   (a) copy, redistribute, publish, host, mirror, bundle, or otherwise make
+       the Software available to any third party;
+   (b) modify, adapt, translate, patch, or create derivative works of the
+       Software;
+   (c) reverse engineer, decompile, disassemble, or otherwise attempt to
+       derive the source code or underlying structure of the Software,
+       except to the limited extent such restriction is expressly
+       prohibited by applicable mandatory law;
+   (d) sell, rent, lease, lend, sublicense, or commercially exploit the
+       Software or charge any fee for access to it;
+   (e) remove, obscure, or alter any copyright, trademark, or other
+       proprietary notice, or any version, signature, or integrity marker;
+   (f) use the Software to build, train, or evaluate a competing product,
+       or for any unlawful purpose.
+
+3. NO OPEN-SOURCE LICENSE
+   The Software is NOT open source and is NOT licensed under MIT, Apache,
+   GPL, or any other open-source or permissive license. Nothing in this
+   repository grants any open-source rights.
+
+4. RESERVATION OF RIGHTS
+   All rights not expressly granted in Section 1 are reserved by StarOrga.
+   No rights are granted by implication, estoppel, or otherwise.
+
+5. TERMINATION
+   This License terminates automatically and immediately, without notice,
+   upon any breach of its terms. Upon termination you must cease all use of
+   the Software and destroy all copies in your possession or control.
+
+6. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+7. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL STARORGA OR
+   ITS CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY,
+   WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT
+   OF, OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+8. GOVERNING LAW
+   This License is governed by the laws of the Federal Republic of Germany,
+   excluding its conflict-of-law provisions and the UN Convention on
+   Contracts for the International Sale of Goods (CISG).
+
+For any use beyond the scope of this License, contact the maintainers via
+the source repository:
+https://github.com/Jerry0022/Star-Citizen-Companion-Website
