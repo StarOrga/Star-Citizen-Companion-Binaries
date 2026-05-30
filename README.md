@@ -43,6 +43,11 @@ for the full reasoning + alternatives considered.
 
 ## License
 
-The hosted binaries are licensed per the source repository
-([Star-Citizen-Companion-Website](https://github.com/Jerry0022/Star-Citizen-Companion-Website)).
-This README itself is CC0.
+**Proprietary — All Rights Reserved.** The hosted binaries are NOT open
+source. They are provided under the terms of the [LICENSE](LICENSE) in this
+repository, which permits end users only to download and run the unmodified
+binaries for personal, non-commercial use. Copying, redistribution,
+modification, reverse engineering, and commercial use are prohibited.
+
+The underlying source code is in the private repository
+[Star-Citizen-Companion-Website](https://github.com/Jerry0022/Star-Citizen-Companion-Website).
